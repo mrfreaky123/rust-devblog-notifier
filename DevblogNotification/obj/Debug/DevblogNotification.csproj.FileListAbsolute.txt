@@ -1,0 +1,9 @@
+c:\users\henry\documents\visual studio 2015\Projects\DevblogNotification\DevblogNotification\bin\Debug\DevblogNotification.exe.config
+c:\users\henry\documents\visual studio 2015\Projects\DevblogNotification\DevblogNotification\bin\Debug\DevblogNotification.exe
+c:\users\henry\documents\visual studio 2015\Projects\DevblogNotification\DevblogNotification\bin\Debug\DevblogNotification.pdb
+c:\users\henry\documents\visual studio 2015\Projects\DevblogNotification\DevblogNotification\obj\Debug\DevblogNotification.csprojResolveAssemblyReference.cache
+c:\users\henry\documents\visual studio 2015\Projects\DevblogNotification\DevblogNotification\obj\Debug\DevblogNotification.Form1.resources
+c:\users\henry\documents\visual studio 2015\Projects\DevblogNotification\DevblogNotification\obj\Debug\DevblogNotification.Properties.Resources.resources
+c:\users\henry\documents\visual studio 2015\Projects\DevblogNotification\DevblogNotification\obj\Debug\DevblogNotification.csproj.GenerateResource.Cache
+c:\users\henry\documents\visual studio 2015\Projects\DevblogNotification\DevblogNotification\obj\Debug\DevblogNotification.exe
+c:\users\henry\documents\visual studio 2015\Projects\DevblogNotification\DevblogNotification\obj\Debug\DevblogNotification.pdb
